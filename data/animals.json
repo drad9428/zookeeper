@@ -153,6 +153,16 @@
         "hungry"
       ],
       "id": "15"
+    },
+    {
+      "name": "charlie",
+      "species": "dog",
+      "diet": "omnivore",
+      "personalityTraits": [
+        "hungry",
+        "loving"
+      ],
+      "id": "16"
     }
   ]
 }
